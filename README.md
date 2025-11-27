@@ -6,7 +6,8 @@ The system extracts question–answer pairs from each PDF, sends them to an AI m
 ---
 
 ## 📸 Workflow Snapshot
-<img width="750" alt="AI Assignment Evaluator" src="https://github.com/user-attachments/assets/6598a75a-5f40-46ee-8e72-d0310b65f318" />
+<img width="750" alt="AI Assignment Evaluator" src="https://github.com/user-attachments/assets/819747f6-f67d-4725-9c32-d7e33b1cab38" />
+ />
 
 
 ---
@@ -60,3 +61,4 @@ The system extracts question–answer pairs from each PDF, sends them to an AI m
 [Watch Here](https://github.com/patilketan03/n8n-ai-assignment-evaluator/blob/main/assignment-evaluation-workflow-demo.mp4)
 
 ---
+
